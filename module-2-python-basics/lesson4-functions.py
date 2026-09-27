@@ -4,11 +4,10 @@ Student: Mohammad,Abdul-Harry H.
 Date: September 27,2026
 
 ============================================
-WHAT DID YOU BUILD? (explain in your own words)
+WHAT IS FUNCTIONS? (explain in your own words)
 ============================================
-[Paste your working script below first, then come back and explain
-it here: what does your script do, and what rule did you use to
-sort the files? e.g. by extension, by name, by date, etc.]
+Functions is a code that you can use anytime, and it make you easy to do your coding, you can call it anytime
+instead of writing an another code. 
 
 
 ============================================
