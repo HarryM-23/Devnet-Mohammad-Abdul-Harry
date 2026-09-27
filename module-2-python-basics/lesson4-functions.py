@@ -13,32 +13,31 @@ instead of writing an another code.
 ============================================
 KEY VOCABULARY
 ============================================
-- os module:
-- shutil module:
-- file path:
-- directory:
+- Functions: This is the code that you can use repeatedly intead of writing the same code,
+you can call it anytime in your code
+- Parameter:This is the code inside of the parameters of your function, they are waiting or the date
+- Return Value:Is the output of your function, it can save your data back to your program and you can use it after.
+
 (add more as needed)
 
 
 ============================================
 YOUR SCRIPT
 ============================================
-Paste the code you already wrote for this activity below.
-"""
+def Activity_Greet(name):
+  
+  return f"My name is {name}, this is my activity."
 
-import os
-import shutil
-
-# --- paste your existing code here ---
+message =Activity_Greet("Harry")
+print(message) 
 
 
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-[what tripped you up while building this? e.g. a path that didn't
-exist, a file that got overwritten, something that didn't work the
-way you expected at first]
+Mistake that I made is that sometimes I didn't know what I input in my code, and I lost on my mind 
+and didn't know what should I do next after that mistake, and the other code I don't know how to use or what their functions
 
 
 ============================================
